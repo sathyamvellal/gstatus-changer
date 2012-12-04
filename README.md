@@ -4,6 +4,11 @@ Google Status Changer v1.0
 This is a simple application to change your gmail/gtalk status periodically with a set of statuses. 
 This comes in handy when its annoying to manually change your status time to time.
 
+- An executable for linux is available here: http://dl.dropbox.com/u/30013949/gstatus-ch
+- Download the executable and run the command "chmod +x gstatus-ch" to give executable permissions. 
+- run "./gstatus-ch" in your terminal to launch it. Enjoy!
+
+
 
 Dependencies
 ============
