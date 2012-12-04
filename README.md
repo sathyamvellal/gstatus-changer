@@ -16,12 +16,12 @@ Dependencies
 Instructions
 ============
 
-To run : python2 main.py
-Enter the username and password.
-Enter the interval in seconds
-Enter the statuses you want to set in the text box. Each status must be in a new line
-Click on start to begin the round-robin changing of your statuses!
-Click on stop to end.
+- To run : python2 main.py
+- Enter the username and password.
+- Enter the interval in seconds
+- Enter the statuses you want to set in the text box. Each status must be in a new line
+- Click on start to begin the round-robin changing of your statuses!
+- Click on stop to end.
 
 
 TODO
