@@ -5,6 +5,14 @@ This is a simple application to change your gmail/gtalk status periodically with
 This comes in handy when its annoying to manually change your status time to time. 
 
 
+Dependencies
+============
+
+Requires xmpp extensions for python. (pyxmpp or xmpppy)
+Requires PyQt4
+Requires pyuic4 to convert .ui to .py
+
+
 Instructions
 ============
 
