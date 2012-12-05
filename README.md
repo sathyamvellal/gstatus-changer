@@ -37,9 +37,9 @@ TODO
 + restrict interval box with numbers
 + menubar
 + Future release :
-	- features to set status by time of day. (requested)
-	- full length email-id support
-	- better authentication ways
+	- features to set status by time of day. (must have)
+	- full length email-id support (must have)
+	- better authentication ways (better to have)
 + help
 + disclaimer
 + remove wordwrapping and introduce HBar for status box
