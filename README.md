@@ -7,7 +7,7 @@ This comes in handy when its annoying to manually change your status time to tim
 - An executable for linux is available here: http://dl.dropbox.com/u/30013949/gstatus-ch
 - Download the executable and run the command "chmod +x gstatus-ch" to give executable permissions. 
 - run "./gstatus-ch" in your terminal to launch it. Enjoy!
-
+- An executable for windows is available here: http://dl.dropbox.com/u/30013949/gStatusChanger.exe
 
 
 Dependencies
