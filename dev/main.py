@@ -36,7 +36,7 @@ class GStatusSetter(QtGui.QMainWindow):
 		client = Client(server='gmail.com', debug=[])
 		if not client.connect(server=('talk.google.com', 5222)):
 			raise IOError('Cannot connect to server')
-		if not client.auth(self.ui.username.text(), self.ui.password.text()):
+		if not client.auth(self.ui.username.text(), self.ui.password.text(), 'gmail.com'):
 			raise IOError('Authentication failed')
 		client.send(Iq('set', 'google:shared-status', payload=[
 					Node('show', payload=['dnd']),
