@@ -32,7 +32,14 @@ Instructions
 TODO
 ====
 
-Add radio buttons for 'default' and 'dnd' status (green and red)
++ radio buttons for 'default' and 'dnd' status (green and red)
++ restrict interval box with numbers
++ menubar
++ Future release - features to set status by time of day. (requested)
++ help
++ disclaimer
++ remove wordwrapping and introduce HBar for status box
++ Improve UI
 
 
 Changelog
