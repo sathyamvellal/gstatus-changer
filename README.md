@@ -22,7 +22,8 @@ Instructions
 ============
 
 - To run : python2 main.py
-- Enter the username and password.
+- Enter the username and password. Enter only the username, not the email.
+	Eg: username@gmail.com => Enter 'username' only
 - Enter the interval in seconds
 - Enter the statuses you want to set in the text box. Each status must be in a new line
 - Click on start to begin the round-robin changing of your statuses!
