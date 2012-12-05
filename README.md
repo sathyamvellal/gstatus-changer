@@ -33,17 +33,17 @@ Instructions
 TODO
 ====
 
-+ radio buttons for 'default' and 'dnd' status (green and red)
-+ restrict interval box with numbers
-+ menubar
++ #1 radio buttons for 'default' and 'dnd' status (green and red)
++ #2 restrict interval box with numbers
++ #3 menubar
 + Future release :
-	- features to set status by time of day. (must have)
-	- full length email-id support (must have)
-	- better authentication ways (better to have)
-+ help
-+ disclaimer
-+ remove wordwrapping and introduce HBar for status box
-+ Improve UI
+	- #4 features to set status by time of day. (must have)
+	- #5 full length email-id support (must have)
+	- #6 better authentication ways (better to have)
++ #6 help
++ #7 disclaimer
++ #8 remove wordwrapping and introduce HBar for status box
++ #9 Improve UI
 
 
 Changelog
